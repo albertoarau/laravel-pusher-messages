@@ -49,6 +49,9 @@ We would like to extend our thanks to the following sponsors for helping fund on
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
+Es es un demo de como utilizar el envio de mensajes mediante pusher y laravel 5.5, para poder realizar este demo se utilizo el Packagist de 
+<a href="https://github.com/lexxyungcarter/laravel-5-messenger">lexxyungcarter/laravel-5-messenger</a> y la integracion de <a href="https://github.com/pusher/pusher-http-laravel">Pusher Http Laravel</a>
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
